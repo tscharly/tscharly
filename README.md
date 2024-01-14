@@ -1,2 +1,2 @@
 - 🌱 I’m currently playing with NFC & JavaCards
-- Interested in GNUHealth for dentists, contactless payment EMV & crypto (BTC/Lightning,ETH,XMR), hamradio stuff, NFC implants and much more
+- Interested in GNUHealth for dentists, contactless payment EMV & crypto (BTC/Lightning,ETH,XMR), hamradio, NFC implants, 3d printing and much more
